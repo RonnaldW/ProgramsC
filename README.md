@@ -1,4 +1,4 @@
-Estrutura de Dados
+<p align="center"> Estrutura de Dados</p>
 
 <p align="center"> <samp><strong>Exercícios, atividades e provas de Estrutura de Dados em C</strong><br> Desenvolvido durante o curso de Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo (IFES)<br> Orientado pelo professor <strong><a href = "https://github.com/thiagopx">Thiago Paixão</a></strong> </samp> </p>
 
